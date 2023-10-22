@@ -1,0 +1,572 @@
+{
+    "location": {
+        "name": "Warsaw",
+        "region": "",
+        "country": "Poland",
+        "lat": 52.24,
+        "lon": 21.02,
+        "tz_id": "Europe/Warsaw",
+        "localtime_epoch": 1697749653,
+        "localtime": "2023-10-19 23:07"
+    },
+    "current": {
+        "temp_c": 8.0,
+        "temp_f": 46.4,
+        "is_day": 0,
+        "condition": {
+            "text": "Light rain"
+        }
+    },
+    "forecast": {
+        "forecastday": [
+            {
+                "date": "2023-10-19",
+                "day": {
+                    "avgtemp_c": 8.2,
+                    "avgtemp_f": 46.8,
+                    "totalsnow_cm": 0.0,
+                    "daily_chance_of_rain": 86,
+                    "condition": {
+                        "text": "Patchy rain possible"
+                    }
+                },
+                "astro": {
+                    
+                },
+                "hour": [
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    }
+                ]
+            },
+            {
+                "date": "2023-10-20",
+                "day": {
+                    "avgtemp_c": 7.3,
+                    "avgtemp_f": 45.2,
+                    "totalsnow_cm": 0.0,
+                    "daily_chance_of_rain": 84,
+                    "condition": {
+                        "text": "Patchy rain possible"
+                    }
+                },
+                "astro": {
+                    
+                },
+                "hour": [
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    }
+                ]
+            },
+            {
+                "date": "2023-10-21",
+                "day": {
+                    "avgtemp_c": 10.8,
+                    "avgtemp_f": 51.4,
+                    "totalsnow_cm": 0.0,
+                    "daily_chance_of_rain": 0,
+                    "condition": {
+                        "text": "Overcast"
+                    }
+                },
+                "astro": {
+                    
+                },
+                "hour": [
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    }
+                ]
+            },
+            {
+                "date": "2023-10-22",
+                "day": {
+                    "avgtemp_c": 11.5,
+                    "avgtemp_f": 52.7,
+                    "totalsnow_cm": 0.0,
+                    "daily_chance_of_rain": 89,
+                    "condition": {
+                        "text": "Moderate rain"
+                    }
+                },
+                "astro": {
+                    
+                },
+                "hour": [
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    },
+                    {
+                        "condition": {
+                            
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

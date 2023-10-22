@@ -1,0 +1,24 @@
+{
+    "iconDay": {
+        "1": "sun.max.fill",
+        "2": "sun.haze.fill",
+        "3": "cloud.sun.fill",
+        "4": "cloud.fill",
+        "5": "cloud.drizzle.fill",
+        "6": "cloud.rain.fill",
+        "7": "cloud.heavyrain.fill",
+        "8": "cloud.bolt.fill",
+        "9": "cloud.snow.fill"
+    },
+    "iconNight": {
+        "1": "moon.stars",
+        "2": "moon.haze",
+        "3": "cloud.moon",
+        "4": "cloud",
+        "5": "cloud.drizzle",
+        "6": "cloud.rain",
+        "7": "cloud.heavyrain",
+        "8": "cloud.bolt",
+        "9": "cloud.snow"
+    }
+}
