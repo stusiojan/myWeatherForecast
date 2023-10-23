@@ -9,6 +9,4 @@ Link to app presentation on youtube: https://youtu.be/5ia5wq5RmFQ
 
 The design looks well both on smaller (here iPhoneSE 3rd gen.) and bigger (here iPhone 15 Pro) devices.
 
-<img width="250" alt="screen_1" src="imgs/screen1.png">
-
-<img width="250" alt="screen_2" src="imgs/screen2.png">
+<img width="250" alt="screen_1" src="imgs/screen1.png"><img width="250" alt="screen_2" src="imgs/screen2.png">
