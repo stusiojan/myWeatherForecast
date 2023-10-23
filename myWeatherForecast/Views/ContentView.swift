@@ -51,6 +51,8 @@ struct ContentView: View {
                         
                         WeatherView(weatherConditions: weatherConditions,iconList: iconList, weather: weather, isCelcius: isCelcius, isDay: isDay)
                         
+                        Spacer()
+
                         ForecastView(weatherConditions: weatherConditions,iconList: iconList, weather: weather, isCelcius: isCelcius, isDay: isDay)
                         
                     } else {
