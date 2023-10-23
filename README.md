@@ -9,6 +9,6 @@ Link to app presentation on youtube: https://youtu.be/5ia5wq5RmFQ
 
 The design looks well both on smaller (here iPhoneSE 3rd gen.) and bigger (here iPhone 15 Pro) devices.
 
-![Simulator Screenshot - iPhone 15 Pro - 2023-10-22 at 14 34 37](https://github.com/stusiojan/myWeatherForecast/assets/111381938/5246a1e5-baf5-4a8d-8d6a-5b8499d48921)
+<img width="250" alt="screen_1" src="imgs/screen1.png">
 
-![Simulator Screenshot - iPhone SE (3rd generation) - 2023-10-22 at 14 36 01](https://github.com/stusiojan/myWeatherForecast/assets/111381938/cd17739c-a753-475b-bb53-21c15f63c190)
+<img width="250" alt="screen_2" src="imgs/screen2.png">
